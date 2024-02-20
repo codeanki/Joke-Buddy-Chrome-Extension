@@ -1,0 +1,19 @@
+body {
+    width: 900 px;
+    height: 600 px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 40px;
+    width: 400px;
+    height: 200px;
+}
